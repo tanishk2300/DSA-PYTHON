@@ -8,4 +8,4 @@ def say_hello():
     print("this side tanishk .")
 f=decorator(say_hello)
 f()
- 
+  
