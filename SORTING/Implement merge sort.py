@@ -1,4 +1,4 @@
-arr=[1,4,6,7,45,56,67]
+arr=[1,6,3,37,22,54,44]
 
 def merge_sort(arr):
     if len(arr)<=1:#here len of arr must less and equal to 1.
