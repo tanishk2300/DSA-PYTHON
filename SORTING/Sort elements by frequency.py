@@ -16,4 +16,4 @@ def sort_freq(arr):# it help to count and arrange the numbers in frequency way l
     for item ,count in sorted_item:
         result.extend([item]*count)
     return result
-print(sort_freq(arr))
+print(sort_freq(arr))#output=[2, 2, 2, 1, 1, 3]
